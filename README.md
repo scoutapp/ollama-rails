@@ -1,25 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project has samples on how to use the gem ollama-ai to communicate with Ollama.
 
-Things you may want to cover:
+The steps to use the project are the following:
 
-* Ruby version
+- Download Ollama
 
-* System dependencies
+- Pull llama2 model using ollama
 
-* Configuration
+- Pull llava model using ollama
 
-* Database creation
+- clone the repository
 
-* Database initialization
+- bundle install
 
-* How to run the test suite
+- rails server
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# ollama
+- Check available examples at routes.rb
